@@ -46,7 +46,7 @@ Mi página favorita para aprender:
 
 ## 🖼️ Imagen
 
-![Imagen de ejemplo](<<https://steamuserimages-a.akamaihd.net/ugc/419187697332145136/4502E17641320FB01D09FC344A02BD19B0A2FC0A/>>)
+![P-51 D sobrevolando un tigerII](<<https://www.digitalcombatsimulator.com/upload/iblock/47f/BNBOB_24.jpg>>)
 
 ## 🌈 Emojis con intención  
 
