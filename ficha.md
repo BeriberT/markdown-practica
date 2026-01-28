@@ -46,7 +46,8 @@ Mi página favorita para aprender:
 
 ## 🖼️ Imagen
 
-![Mi imagen](img/<<P-51d.jpg>>)
+![Breda PG](<<https://es.wikipedia.org/wiki/Breda_PG#/media/Archivo:Breda_PG_colorized.png>>)
+
 
 ## 🌈 Emojis con intención  
 
