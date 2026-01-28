@@ -46,7 +46,7 @@ Mi página favorita para aprender:
 
 ## 🖼️ Imagen
 
-![Breda-PG machine gun, Italian-made weapon from WWII era, shown in colorized historical photograph against neutral background](<https://es.wikipedia.org/wiki/Breda_PG#/media/Archivo:Breda_PG_colorized.png>)
+![P-51](img/<<P-51d.png>>)
 
 
 ## 🌈 Emojis con intención  
