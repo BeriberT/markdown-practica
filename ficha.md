@@ -46,7 +46,7 @@ Mi página favorita para aprender:
 
 ## 🖼️ Imagen
 
-![P-51 D sobrevolando un tigerII](<<https://www.digitalcombatsimulator.com/upload/iblock/47f/BNBOB_24.jpg>>)
+![Mi imagen](img/<<P-51d.jpg>>)
 
 ## 🌈 Emojis con intención  
 
