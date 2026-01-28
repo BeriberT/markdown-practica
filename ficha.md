@@ -31,8 +31,8 @@ Aprender a escribir documentos claros y bonitos usando Markdown.
 - [x] Agregué títulos  
 - [x] Agregué links  
 - [x] Agregué una imagen  
-- [ ] Agregué emojis  
-- [ ] Revisé que se vea bonito  
+- [x] Agregué emojis  
+- [x] Revisé que se vea bonito  
 
 ## 🔗 Enlaces  
 
@@ -44,9 +44,9 @@ Mi página favorita para aprender:
 
 [Ir a el mejor video de la WWII](#un-video-recomendado)  
 
-## 🖼️ Imagen  
+## 🖼️ Imagen
 
-![P-51D 30 luego de derrivar a un Me 262](<<https://steamuserimages-a.akamaihd.net/ugc/419187697332145136/4502E17641320FB01D09FC344A02BD19B0A2FC0A/>>)  
+![Imagen de ejemplo](<<https://steamuserimages-a.akamaihd.net/ugc/419187697332145136/4502E17641320FB01D09FC344A02BD19B0A2FC0A/>>)
 
 ## 🌈 Emojis con intención  
 
