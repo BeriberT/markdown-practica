@@ -46,7 +46,7 @@ Mi página favorita para aprender:
 
 ## 🖼️ Imagen
 
-![P-51](./img/<<P-51d.png>>)
+![P-51](./img/P-51d.png)
 
 
 ## 🌈 Emojis con intención  
